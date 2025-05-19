@@ -1,4 +1,4 @@
-iimage:
-  repository: busybox
+image:
+  repository: docker.io/library/busybox
   tag: latest
 appMessage: "Service1"
