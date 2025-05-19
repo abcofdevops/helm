@@ -1,0 +1,4 @@
+image:
+  repository: busybox
+  tag: latest
+appMessage: "Service2"
