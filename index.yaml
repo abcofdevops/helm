@@ -3,7 +3,7 @@ entries:
   service1:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-05-19T21:11:16.672461484Z"
+    created: "2025-05-19T21:19:45.959922344Z"
     description: A Helm chart for Kubernetes
     digest: 4f98d33c6d7ff1c07f052ea56ebf17c3412001e4fae980a3ec403f8f239e8b0c
     name: service1
@@ -14,12 +14,12 @@ entries:
   service2:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-05-19T21:11:16.672566765Z"
+    created: "2025-05-19T21:19:45.959991524Z"
     description: A Helm chart for Kubernetes
-    digest: 94f19f09be29a3a248b853d2c71d334937d946bf80564b8d516679a7f3b99816
+    digest: 4f9bd4ab37c686ca03fb1bf013b3e205d0f2d76e02f50d3349a6d43605a0932a
     name: service2
     type: application
     urls:
     - https://abcofdevops.github.io/helm/service2-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-19T21:11:16.6721198Z"
+generated: "2025-05-19T21:19:45.95922908Z"
