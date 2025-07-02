@@ -308,3 +308,5 @@ cd service2
   helm show values my-repo/service1
   ```
 ---
+
+> ### Understand [chart.yaml](./chart.md)
